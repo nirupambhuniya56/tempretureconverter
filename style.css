@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
-    background-image: url(/light-orange-template-with-circles-vector.jpg);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(21, 192, 235);
     margin: 0;
     padding: 0;
   }
